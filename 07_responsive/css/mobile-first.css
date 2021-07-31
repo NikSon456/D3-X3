@@ -278,7 +278,7 @@ img {
 
 /* ./Partners */
 
-@media (min-width: 431px) {
+@media (min-width: 320px) {
   .nav {
     flex-direction: row;
     align-items: center;
